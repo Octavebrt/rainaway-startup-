@@ -1,0 +1,24 @@
+.banner h2 {
+  position:relative;
+  font-size: 25px;
+  font-weight: lighter;
+  color: #ffffff; /* Vert pâle */
+  margin-bottom: 60px;
+  font-weight: bold;
+  left:60px;
+  top: -10px;
+}
+
+.banner img{
+  position: relative;
+  width: 1100px;
+  right: 200px;
+  border-radius: 100px;
+  top: 30px;
+}
+
+.banner{
+  background-color: #4b4848;
+  position: relative;
+  top:-70px;
+}

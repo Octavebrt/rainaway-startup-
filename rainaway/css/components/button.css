@@ -1,0 +1,11 @@
+.btn-blue {
+  background-color: #5CC81C; /* Bleu-vert inspiré de la nature */
+  position: relative;
+  padding: 20px 70px;
+  border-radius: 100px;
+  color: white;
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+  left:200px;
+  top: -30px;
+}
